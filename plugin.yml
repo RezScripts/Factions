@@ -1,0 +1,10 @@
+name: Factions
+version: 1.0.0
+main: rezscripts.core.factions.P
+author: [Rez Scripts]
+depends: [WorldEdit,WorldBorder,Vault]
+description: Factions Fork - by Rez Scripts
+commands:
+  factions:
+    description: Reference command for Factions.
+    aliases: [f]
